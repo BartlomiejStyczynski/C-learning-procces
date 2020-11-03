@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\obj\Debug\netcoreapp3.1\constructorsexe.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\obj\Debug\netcoreapp3.1\constructorsexe.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\obj\Debug\netcoreapp3.1\constructorsexe.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\obj\Debug\netcoreapp3.1\constructorsexe.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\bin\Debug\netcoreapp3.1\constructorsexe.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\bin\Debug\netcoreapp3.1\constructorsexe.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\bin\Debug\netcoreapp3.1\constructorsexe.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\bin\Debug\netcoreapp3.1\constructorsexe.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\bin\Debug\netcoreapp3.1\constructorsexe.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\bin\Debug\netcoreapp3.1\constructorsexe.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\obj\Debug\netcoreapp3.1\constructorsexe.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\obj\Debug\netcoreapp3.1\constructorsexe.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\constructors\constructorsexe\constructorsexe\obj\Debug\netcoreapp3.1\constructorsexe.genruntimeconfig.cache

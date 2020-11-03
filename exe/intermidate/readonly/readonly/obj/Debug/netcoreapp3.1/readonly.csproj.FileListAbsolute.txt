@@ -1,0 +1,4 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly\readonly\obj\Debug\netcoreapp3.1\readonly.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly\readonly\obj\Debug\netcoreapp3.1\readonly.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly\readonly\obj\Debug\netcoreapp3.1\readonly.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly\readonly\obj\Debug\netcoreapp3.1\readonly.AssemblyInfo.cs

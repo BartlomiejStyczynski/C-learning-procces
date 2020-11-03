@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.genruntimeconfig.cache

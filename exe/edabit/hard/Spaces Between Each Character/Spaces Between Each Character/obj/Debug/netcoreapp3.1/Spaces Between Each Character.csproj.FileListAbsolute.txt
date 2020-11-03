@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\bin\Debug\netcoreapp3.1\Spaces Between Each Character.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\bin\Debug\netcoreapp3.1\Spaces Between Each Character.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\bin\Debug\netcoreapp3.1\Spaces Between Each Character.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\bin\Debug\netcoreapp3.1\Spaces Between Each Character.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\bin\Debug\netcoreapp3.1\Spaces Between Each Character.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\bin\Debug\netcoreapp3.1\Spaces Between Each Character.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\obj\Debug\netcoreapp3.1\Spaces Between Each Character.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\obj\Debug\netcoreapp3.1\Spaces Between Each Character.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\obj\Debug\netcoreapp3.1\Spaces Between Each Character.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\obj\Debug\netcoreapp3.1\Spaces Between Each Character.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\obj\Debug\netcoreapp3.1\Spaces Between Each Character.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\obj\Debug\netcoreapp3.1\Spaces Between Each Character.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\Spaces Between Each Character\Spaces Between Each Character\obj\Debug\netcoreapp3.1\Spaces Between Each Character.genruntimeconfig.cache

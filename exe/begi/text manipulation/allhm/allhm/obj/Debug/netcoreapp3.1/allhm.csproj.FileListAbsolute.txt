@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\obj\Debug\netcoreapp3.1\allhm.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\obj\Debug\netcoreapp3.1\allhm.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\obj\Debug\netcoreapp3.1\allhm.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\bin\Debug\netcoreapp3.1\allhm.exe
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\bin\Debug\netcoreapp3.1\allhm.deps.json
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\bin\Debug\netcoreapp3.1\allhm.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\bin\Debug\netcoreapp3.1\allhm.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\bin\Debug\netcoreapp3.1\allhm.dll
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\bin\Debug\netcoreapp3.1\allhm.pdb
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\obj\Debug\netcoreapp3.1\allhm.dll
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\obj\Debug\netcoreapp3.1\allhm.pdb
+C:\Users\styczyniaki\Desktop\exe\begi\text manipulation\allhm\allhm\obj\Debug\netcoreapp3.1\allhm.genruntimeconfig.cache

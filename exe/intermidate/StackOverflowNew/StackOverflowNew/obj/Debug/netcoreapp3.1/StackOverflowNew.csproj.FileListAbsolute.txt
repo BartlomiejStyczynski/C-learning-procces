@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\bin\Debug\netcoreapp3.1\StackOverflowNew.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\bin\Debug\netcoreapp3.1\StackOverflowNew.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\bin\Debug\netcoreapp3.1\StackOverflowNew.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\bin\Debug\netcoreapp3.1\StackOverflowNew.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\bin\Debug\netcoreapp3.1\StackOverflowNew.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\bin\Debug\netcoreapp3.1\StackOverflowNew.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\obj\Debug\netcoreapp3.1\StackOverflowNew.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\obj\Debug\netcoreapp3.1\StackOverflowNew.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\obj\Debug\netcoreapp3.1\StackOverflowNew.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\obj\Debug\netcoreapp3.1\StackOverflowNew.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\obj\Debug\netcoreapp3.1\StackOverflowNew.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\obj\Debug\netcoreapp3.1\StackOverflowNew.genruntimeconfig.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\StackOverflowNew\StackOverflowNew\obj\Debug\netcoreapp3.1\StackOverflowNew.csprojAssemblyReference.cache

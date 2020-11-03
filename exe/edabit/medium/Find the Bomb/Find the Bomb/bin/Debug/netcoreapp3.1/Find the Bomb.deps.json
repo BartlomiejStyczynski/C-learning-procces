@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Find the Bomb/1.0.0": {
+        "runtime": {
+          "Find the Bomb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find the Bomb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

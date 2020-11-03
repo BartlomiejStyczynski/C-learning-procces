@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\bin\Debug\netcoreapp3.1\readonly2.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\bin\Debug\netcoreapp3.1\readonly2.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\bin\Debug\netcoreapp3.1\readonly2.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\bin\Debug\netcoreapp3.1\readonly2.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\bin\Debug\netcoreapp3.1\readonly2.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\bin\Debug\netcoreapp3.1\readonly2.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\obj\Debug\netcoreapp3.1\readonly2.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\obj\Debug\netcoreapp3.1\readonly2.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\obj\Debug\netcoreapp3.1\readonly2.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\obj\Debug\netcoreapp3.1\readonly2.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\obj\Debug\netcoreapp3.1\readonly2.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\readonly2\readonly2\obj\Debug\netcoreapp3.1\readonly2.genruntimeconfig.cache

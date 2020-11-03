@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Spaces Between Each Character/1.0.0": {
+        "runtime": {
+          "Spaces Between Each Character.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spaces Between Each Character/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

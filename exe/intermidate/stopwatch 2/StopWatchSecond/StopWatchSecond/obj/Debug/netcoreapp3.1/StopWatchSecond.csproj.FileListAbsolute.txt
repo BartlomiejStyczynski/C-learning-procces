@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\bin\Debug\netcoreapp3.1\StopWatchSecond.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\bin\Debug\netcoreapp3.1\StopWatchSecond.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\bin\Debug\netcoreapp3.1\StopWatchSecond.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\bin\Debug\netcoreapp3.1\StopWatchSecond.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\bin\Debug\netcoreapp3.1\StopWatchSecond.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\bin\Debug\netcoreapp3.1\StopWatchSecond.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\obj\Debug\netcoreapp3.1\StopWatchSecond.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\obj\Debug\netcoreapp3.1\StopWatchSecond.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\obj\Debug\netcoreapp3.1\StopWatchSecond.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\obj\Debug\netcoreapp3.1\StopWatchSecond.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\obj\Debug\netcoreapp3.1\StopWatchSecond.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\obj\Debug\netcoreapp3.1\StopWatchSecond.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\stopwatch 2\StopWatchSecond\StopWatchSecond\obj\Debug\netcoreapp3.1\StopWatchSecond.genruntimeconfig.cache

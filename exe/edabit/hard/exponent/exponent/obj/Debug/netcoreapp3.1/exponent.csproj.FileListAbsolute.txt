@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\obj\Debug\netcoreapp3.1\exponent.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\obj\Debug\netcoreapp3.1\exponent.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\obj\Debug\netcoreapp3.1\exponent.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\obj\Debug\netcoreapp3.1\exponent.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\bin\Debug\netcoreapp3.1\exponent.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\bin\Debug\netcoreapp3.1\exponent.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\bin\Debug\netcoreapp3.1\exponent.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\bin\Debug\netcoreapp3.1\exponent.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\bin\Debug\netcoreapp3.1\exponent.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\bin\Debug\netcoreapp3.1\exponent.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\obj\Debug\netcoreapp3.1\exponent.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\obj\Debug\netcoreapp3.1\exponent.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\exponent\exponent\obj\Debug\netcoreapp3.1\exponent.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.genruntimeconfig.cache

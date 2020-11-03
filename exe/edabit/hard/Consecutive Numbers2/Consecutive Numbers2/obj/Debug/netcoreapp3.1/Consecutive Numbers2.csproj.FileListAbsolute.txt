@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\bin\Debug\netcoreapp3.1\Consecutive Numbers2.exe
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\bin\Debug\netcoreapp3.1\Consecutive Numbers2.deps.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\bin\Debug\netcoreapp3.1\Consecutive Numbers2.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\bin\Debug\netcoreapp3.1\Consecutive Numbers2.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\bin\Debug\netcoreapp3.1\Consecutive Numbers2.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\bin\Debug\netcoreapp3.1\Consecutive Numbers2.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\obj\Debug\netcoreapp3.1\Consecutive Numbers2.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\obj\Debug\netcoreapp3.1\Consecutive Numbers2.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\obj\Debug\netcoreapp3.1\Consecutive Numbers2.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\obj\Debug\netcoreapp3.1\Consecutive Numbers2.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\obj\Debug\netcoreapp3.1\Consecutive Numbers2.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\obj\Debug\netcoreapp3.1\Consecutive Numbers2.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Consecutive Numbers2\Consecutive Numbers2\obj\Debug\netcoreapp3.1\Consecutive Numbers2.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double Letters", "Double Letters\Double Letters.csproj", "{BF18C321-5717-40ED-BA3D-2318FC451643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF18C321-5717-40ED-BA3D-2318FC451643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF18C321-5717-40ED-BA3D-2318FC451643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF18C321-5717-40ED-BA3D-2318FC451643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF18C321-5717-40ED-BA3D-2318FC451643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230563B6-56B7-4206-A83C-212E9DB11983}
+	EndGlobalSection
+EndGlobal

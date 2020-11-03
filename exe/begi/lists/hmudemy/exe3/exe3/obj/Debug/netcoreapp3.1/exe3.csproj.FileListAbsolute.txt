@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\bin\Debug\netcoreapp3.1\exe3.exe
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\bin\Debug\netcoreapp3.1\exe3.deps.json
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\bin\Debug\netcoreapp3.1\exe3.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\bin\Debug\netcoreapp3.1\exe3.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\bin\Debug\netcoreapp3.1\exe3.dll
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\bin\Debug\netcoreapp3.1\exe3.pdb
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\obj\Debug\netcoreapp3.1\exe3.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\obj\Debug\netcoreapp3.1\exe3.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\obj\Debug\netcoreapp3.1\exe3.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\obj\Debug\netcoreapp3.1\exe3.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\obj\Debug\netcoreapp3.1\exe3.dll
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\obj\Debug\netcoreapp3.1\exe3.pdb
+C:\Users\styczyniaki\Desktop\exe\begi\lists\hmudemy\exe3\exe3\obj\Debug\netcoreapp3.1\exe3.genruntimeconfig.cache

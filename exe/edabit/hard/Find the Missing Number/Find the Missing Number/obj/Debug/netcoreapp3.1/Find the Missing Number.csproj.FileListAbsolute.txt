@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\bin\Debug\netcoreapp3.1\Find the Missing Number.exe
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\bin\Debug\netcoreapp3.1\Find the Missing Number.deps.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\bin\Debug\netcoreapp3.1\Find the Missing Number.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\bin\Debug\netcoreapp3.1\Find the Missing Number.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\bin\Debug\netcoreapp3.1\Find the Missing Number.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\bin\Debug\netcoreapp3.1\Find the Missing Number.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\obj\Debug\netcoreapp3.1\Find the Missing Number.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\obj\Debug\netcoreapp3.1\Find the Missing Number.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\obj\Debug\netcoreapp3.1\Find the Missing Number.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\obj\Debug\netcoreapp3.1\Find the Missing Number.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\obj\Debug\netcoreapp3.1\Find the Missing Number.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\Find the Missing Number\Find the Missing Number\obj\Debug\netcoreapp3.1\Find the Missing Number.genruntimeconfig.cache

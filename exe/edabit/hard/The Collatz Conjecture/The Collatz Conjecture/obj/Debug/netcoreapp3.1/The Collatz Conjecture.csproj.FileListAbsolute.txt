@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\bin\Debug\netcoreapp3.1\The Collatz Conjecture.exe
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\bin\Debug\netcoreapp3.1\The Collatz Conjecture.deps.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\bin\Debug\netcoreapp3.1\The Collatz Conjecture.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\bin\Debug\netcoreapp3.1\The Collatz Conjecture.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\bin\Debug\netcoreapp3.1\The Collatz Conjecture.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\bin\Debug\netcoreapp3.1\The Collatz Conjecture.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\obj\Debug\netcoreapp3.1\The Collatz Conjecture.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\obj\Debug\netcoreapp3.1\The Collatz Conjecture.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\obj\Debug\netcoreapp3.1\The Collatz Conjecture.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\obj\Debug\netcoreapp3.1\The Collatz Conjecture.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\obj\Debug\netcoreapp3.1\The Collatz Conjecture.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\obj\Debug\netcoreapp3.1\The Collatz Conjecture.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\hard\The Collatz Conjecture\The Collatz Conjecture\obj\Debug\netcoreapp3.1\The Collatz Conjecture.genruntimeconfig.cache

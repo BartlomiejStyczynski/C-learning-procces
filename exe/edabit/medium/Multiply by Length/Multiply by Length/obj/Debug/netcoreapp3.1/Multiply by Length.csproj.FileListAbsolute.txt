@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\bin\Debug\netcoreapp3.1\Multiply by Length.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\bin\Debug\netcoreapp3.1\Multiply by Length.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\bin\Debug\netcoreapp3.1\Multiply by Length.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\bin\Debug\netcoreapp3.1\Multiply by Length.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\bin\Debug\netcoreapp3.1\Multiply by Length.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\bin\Debug\netcoreapp3.1\Multiply by Length.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\obj\Debug\netcoreapp3.1\Multiply by Length.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\obj\Debug\netcoreapp3.1\Multiply by Length.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\obj\Debug\netcoreapp3.1\Multiply by Length.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\obj\Debug\netcoreapp3.1\Multiply by Length.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\obj\Debug\netcoreapp3.1\Multiply by Length.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\obj\Debug\netcoreapp3.1\Multiply by Length.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Multiply by Length\Multiply by Length\obj\Debug\netcoreapp3.1\Multiply by Length.genruntimeconfig.cache

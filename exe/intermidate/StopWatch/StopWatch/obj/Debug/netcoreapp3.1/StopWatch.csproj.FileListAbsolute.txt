@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csprojAssemblyReference.cache

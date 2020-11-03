@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\bin\Debug\netcoreapp3.1\monthname.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\bin\Debug\netcoreapp3.1\monthname.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\bin\Debug\netcoreapp3.1\monthname.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\bin\Debug\netcoreapp3.1\monthname.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\bin\Debug\netcoreapp3.1\monthname.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\bin\Debug\netcoreapp3.1\monthname.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\obj\Debug\netcoreapp3.1\monthname.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\obj\Debug\netcoreapp3.1\monthname.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\obj\Debug\netcoreapp3.1\monthname.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\obj\Debug\netcoreapp3.1\monthname.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\obj\Debug\netcoreapp3.1\monthname.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\monthname\monthname\obj\Debug\netcoreapp3.1\monthname.genruntimeconfig.cache

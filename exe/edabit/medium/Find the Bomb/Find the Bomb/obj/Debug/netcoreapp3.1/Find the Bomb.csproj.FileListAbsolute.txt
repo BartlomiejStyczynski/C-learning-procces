@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\obj\Debug\netcoreapp3.1\Find the Bomb.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\obj\Debug\netcoreapp3.1\Find the Bomb.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\obj\Debug\netcoreapp3.1\Find the Bomb.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\bin\Debug\netcoreapp3.1\Find the Bomb.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\bin\Debug\netcoreapp3.1\Find the Bomb.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\bin\Debug\netcoreapp3.1\Find the Bomb.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\bin\Debug\netcoreapp3.1\Find the Bomb.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\bin\Debug\netcoreapp3.1\Find the Bomb.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\bin\Debug\netcoreapp3.1\Find the Bomb.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\obj\Debug\netcoreapp3.1\Find the Bomb.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\obj\Debug\netcoreapp3.1\Find the Bomb.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Find the Bomb\Find the Bomb\obj\Debug\netcoreapp3.1\Find the Bomb.genruntimeconfig.cache

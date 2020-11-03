@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\bin\Debug\netcoreapp3.1\Repeating Letters N Times.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\bin\Debug\netcoreapp3.1\Repeating Letters N Times.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\bin\Debug\netcoreapp3.1\Repeating Letters N Times.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\bin\Debug\netcoreapp3.1\Repeating Letters N Times.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\bin\Debug\netcoreapp3.1\Repeating Letters N Times.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\bin\Debug\netcoreapp3.1\Repeating Letters N Times.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\obj\Debug\netcoreapp3.1\Repeating Letters N Times.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\obj\Debug\netcoreapp3.1\Repeating Letters N Times.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\obj\Debug\netcoreapp3.1\Repeating Letters N Times.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\obj\Debug\netcoreapp3.1\Repeating Letters N Times.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\obj\Debug\netcoreapp3.1\Repeating Letters N Times.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Repeating Letters N Times\Repeating Letters N Times\obj\Debug\netcoreapp3.1\Repeating Letters N Times.genruntimeconfig.cache

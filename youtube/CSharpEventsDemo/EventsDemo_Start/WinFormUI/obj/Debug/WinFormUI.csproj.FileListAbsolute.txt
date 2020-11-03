@@ -1,0 +1,14 @@
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.Transactions.resources
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\styczyniaki\Desktop\C# learning procces\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.pdb

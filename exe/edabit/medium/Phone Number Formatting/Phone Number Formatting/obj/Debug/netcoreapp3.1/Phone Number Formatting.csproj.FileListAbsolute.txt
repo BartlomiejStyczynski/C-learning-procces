@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\obj\Debug\netcoreapp3.1\Phone Number Formatting.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\obj\Debug\netcoreapp3.1\Phone Number Formatting.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\obj\Debug\netcoreapp3.1\Phone Number Formatting.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\obj\Debug\netcoreapp3.1\Phone Number Formatting.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\bin\Debug\netcoreapp3.1\Phone Number Formatting.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\bin\Debug\netcoreapp3.1\Phone Number Formatting.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\bin\Debug\netcoreapp3.1\Phone Number Formatting.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\bin\Debug\netcoreapp3.1\Phone Number Formatting.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\bin\Debug\netcoreapp3.1\Phone Number Formatting.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\bin\Debug\netcoreapp3.1\Phone Number Formatting.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\obj\Debug\netcoreapp3.1\Phone Number Formatting.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\obj\Debug\netcoreapp3.1\Phone Number Formatting.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Phone Number Formatting\Phone Number Formatting\obj\Debug\netcoreapp3.1\Phone Number Formatting.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\bin\Debug\netcoreapp3.1\Design a Stack2.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\bin\Debug\netcoreapp3.1\Design a Stack2.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\bin\Debug\netcoreapp3.1\Design a Stack2.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\bin\Debug\netcoreapp3.1\Design a Stack2.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\bin\Debug\netcoreapp3.1\Design a Stack2.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\bin\Debug\netcoreapp3.1\Design a Stack2.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\obj\Debug\netcoreapp3.1\Design a Stack2.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\obj\Debug\netcoreapp3.1\Design a Stack2.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\obj\Debug\netcoreapp3.1\Design a Stack2.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\obj\Debug\netcoreapp3.1\Design a Stack2.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\obj\Debug\netcoreapp3.1\Design a Stack2.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\obj\Debug\netcoreapp3.1\Design a Stack2.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a Stack2\Design a Stack2\obj\Debug\netcoreapp3.1\Design a Stack2.genruntimeconfig.cache

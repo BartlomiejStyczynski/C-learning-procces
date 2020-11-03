@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\bin\Debug\netcoreapp3.1\HammingDistance.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HammingDistance\HammingDistance\obj\Debug\netcoreapp3.1\HammingDistance.genruntimeconfig.cache

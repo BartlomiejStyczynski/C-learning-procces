@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\bin\Debug\netcoreapp3.1\exe5.exe
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\bin\Debug\netcoreapp3.1\exe5.deps.json
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\bin\Debug\netcoreapp3.1\exe5.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\bin\Debug\netcoreapp3.1\exe5.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\bin\Debug\netcoreapp3.1\exe5.dll
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\bin\Debug\netcoreapp3.1\exe5.pdb
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\obj\Debug\netcoreapp3.1\exe5.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\obj\Debug\netcoreapp3.1\exe5.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\obj\Debug\netcoreapp3.1\exe5.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\obj\Debug\netcoreapp3.1\exe5.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\obj\Debug\netcoreapp3.1\exe5.dll
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\obj\Debug\netcoreapp3.1\exe5.pdb
+C:\Users\styczyniaki\Desktop\exe\begi\lists\exe5\exe5\obj\Debug\netcoreapp3.1\exe5.genruntimeconfig.cache

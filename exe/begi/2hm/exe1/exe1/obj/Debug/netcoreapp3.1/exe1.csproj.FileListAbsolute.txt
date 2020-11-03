@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\obj\Debug\netcoreapp3.1\exe1.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\obj\Debug\netcoreapp3.1\exe1.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\obj\Debug\netcoreapp3.1\exe1.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\obj\Debug\netcoreapp3.1\exe1.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\bin\Debug\netcoreapp3.1\exe1.exe
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\bin\Debug\netcoreapp3.1\exe1.deps.json
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\bin\Debug\netcoreapp3.1\exe1.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\bin\Debug\netcoreapp3.1\exe1.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\bin\Debug\netcoreapp3.1\exe1.dll
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\bin\Debug\netcoreapp3.1\exe1.pdb
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\obj\Debug\netcoreapp3.1\exe1.dll
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\obj\Debug\netcoreapp3.1\exe1.pdb
+C:\Users\styczyniaki\Desktop\exe\begi\2hm\exe1\exe1\obj\Debug\netcoreapp3.1\exe1.genruntimeconfig.cache

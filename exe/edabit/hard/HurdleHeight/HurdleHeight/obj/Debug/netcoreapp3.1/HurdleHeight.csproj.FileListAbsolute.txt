@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\bin\Debug\netcoreapp3.1\HurdleHeight.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\bin\Debug\netcoreapp3.1\HurdleHeight.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\bin\Debug\netcoreapp3.1\HurdleHeight.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\bin\Debug\netcoreapp3.1\HurdleHeight.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\bin\Debug\netcoreapp3.1\HurdleHeight.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\bin\Debug\netcoreapp3.1\HurdleHeight.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\obj\Debug\netcoreapp3.1\HurdleHeight.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\obj\Debug\netcoreapp3.1\HurdleHeight.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\obj\Debug\netcoreapp3.1\HurdleHeight.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\obj\Debug\netcoreapp3.1\HurdleHeight.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\obj\Debug\netcoreapp3.1\HurdleHeight.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\HurdleHeight\HurdleHeight\obj\Debug\netcoreapp3.1\HurdleHeight.genruntimeconfig.cache

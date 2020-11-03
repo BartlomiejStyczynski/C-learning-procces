@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate the Mean", "Calculate the Mean\Calculate the Mean.csproj", "{BE436880-BA3C-430E-9BFB-8B120CB6230C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE436880-BA3C-430E-9BFB-8B120CB6230C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE436880-BA3C-430E-9BFB-8B120CB6230C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE436880-BA3C-430E-9BFB-8B120CB6230C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE436880-BA3C-430E-9BFB-8B120CB6230C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0313E6A9-B5D4-4080-8CBB-2B7E00CCEBD8}
+	EndGlobalSection
+EndGlobal

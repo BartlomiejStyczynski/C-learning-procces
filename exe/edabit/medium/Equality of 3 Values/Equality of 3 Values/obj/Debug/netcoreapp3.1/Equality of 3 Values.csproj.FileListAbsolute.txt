@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\bin\Debug\netcoreapp3.1\Equality of 3 Values.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\bin\Debug\netcoreapp3.1\Equality of 3 Values.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\bin\Debug\netcoreapp3.1\Equality of 3 Values.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\bin\Debug\netcoreapp3.1\Equality of 3 Values.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\bin\Debug\netcoreapp3.1\Equality of 3 Values.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\bin\Debug\netcoreapp3.1\Equality of 3 Values.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\obj\Debug\netcoreapp3.1\Equality of 3 Values.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\obj\Debug\netcoreapp3.1\Equality of 3 Values.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\obj\Debug\netcoreapp3.1\Equality of 3 Values.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\obj\Debug\netcoreapp3.1\Equality of 3 Values.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\obj\Debug\netcoreapp3.1\Equality of 3 Values.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Equality of 3 Values\Equality of 3 Values\obj\Debug\netcoreapp3.1\Equality of 3 Values.genruntimeconfig.cache

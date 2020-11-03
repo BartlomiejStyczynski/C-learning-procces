@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\bin\Debug\netcoreapp3.1\public class Program.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\bin\Debug\netcoreapp3.1\public class Program.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\bin\Debug\netcoreapp3.1\public class Program.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\bin\Debug\netcoreapp3.1\public class Program.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\bin\Debug\netcoreapp3.1\public class Program.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\bin\Debug\netcoreapp3.1\public class Program.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\obj\Debug\netcoreapp3.1\public class Program.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\obj\Debug\netcoreapp3.1\public class Program.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\obj\Debug\netcoreapp3.1\public class Program.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\obj\Debug\netcoreapp3.1\public class Program.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\obj\Debug\netcoreapp3.1\public class Program.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\obj\Debug\netcoreapp3.1\public class Program.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\public class Program\public class Program\obj\Debug\netcoreapp3.1\public class Program.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "readonly2", "readonly2\readonly2.csproj", "{9FCAC28D-7494-40CD-85E5-365355B714AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FCAC28D-7494-40CD-85E5-365355B714AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCAC28D-7494-40CD-85E5-365355B714AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCAC28D-7494-40CD-85E5-365355B714AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCAC28D-7494-40CD-85E5-365355B714AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D93A03-6968-4E9B-BED8-FEC9802E8EAC}
+	EndGlobalSection
+EndGlobal

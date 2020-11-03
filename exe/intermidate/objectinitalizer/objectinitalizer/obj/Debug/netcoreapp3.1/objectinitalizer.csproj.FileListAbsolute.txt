@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\bin\Debug\netcoreapp3.1\objectinitalizer.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\bin\Debug\netcoreapp3.1\objectinitalizer.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\bin\Debug\netcoreapp3.1\objectinitalizer.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\bin\Debug\netcoreapp3.1\objectinitalizer.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\bin\Debug\netcoreapp3.1\objectinitalizer.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\bin\Debug\netcoreapp3.1\objectinitalizer.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\obj\Debug\netcoreapp3.1\objectinitalizer.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\obj\Debug\netcoreapp3.1\objectinitalizer.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\obj\Debug\netcoreapp3.1\objectinitalizer.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\obj\Debug\netcoreapp3.1\objectinitalizer.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\obj\Debug\netcoreapp3.1\objectinitalizer.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\obj\Debug\netcoreapp3.1\objectinitalizer.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\objectinitalizer\objectinitalizer\obj\Debug\netcoreapp3.1\objectinitalizer.genruntimeconfig.cache

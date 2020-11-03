@@ -1,0 +1,12 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\bin\Debug\netcoreapp3.1\Calculate the Mean.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\bin\Debug\netcoreapp3.1\Calculate the Mean.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\bin\Debug\netcoreapp3.1\Calculate the Mean.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\bin\Debug\netcoreapp3.1\Calculate the Mean.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\bin\Debug\netcoreapp3.1\Calculate the Mean.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\bin\Debug\netcoreapp3.1\Calculate the Mean.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\obj\Debug\netcoreapp3.1\Calculate the Mean.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\obj\Debug\netcoreapp3.1\Calculate the Mean.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\obj\Debug\netcoreapp3.1\Calculate the Mean.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\obj\Debug\netcoreapp3.1\Calculate the Mean.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\obj\Debug\netcoreapp3.1\Calculate the Mean.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Calculate the Mean\Calculate the Mean\obj\Debug\netcoreapp3.1\Calculate the Mean.genruntimeconfig.cache

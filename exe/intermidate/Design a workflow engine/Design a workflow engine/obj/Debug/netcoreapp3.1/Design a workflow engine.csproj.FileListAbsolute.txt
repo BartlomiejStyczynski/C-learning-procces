@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\obj\Debug\netcoreapp3.1\Design a workflow engine.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\obj\Debug\netcoreapp3.1\Design a workflow engine.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\obj\Debug\netcoreapp3.1\Design a workflow engine.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\obj\Debug\netcoreapp3.1\Design a workflow engine.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\bin\Debug\netcoreapp3.1\Design a workflow engine.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\bin\Debug\netcoreapp3.1\Design a workflow engine.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\bin\Debug\netcoreapp3.1\Design a workflow engine.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\bin\Debug\netcoreapp3.1\Design a workflow engine.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\bin\Debug\netcoreapp3.1\Design a workflow engine.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\bin\Debug\netcoreapp3.1\Design a workflow engine.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\obj\Debug\netcoreapp3.1\Design a workflow engine.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\obj\Debug\netcoreapp3.1\Design a workflow engine.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\Design a workflow engine\Design a workflow engine\obj\Debug\netcoreapp3.1\Design a workflow engine.genruntimeconfig.cache

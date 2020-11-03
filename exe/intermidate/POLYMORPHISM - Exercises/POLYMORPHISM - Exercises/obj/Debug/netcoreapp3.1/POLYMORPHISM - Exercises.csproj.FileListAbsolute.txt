@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\obj\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\obj\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\obj\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\obj\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\bin\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.exe
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\bin\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.deps.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\bin\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\bin\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\bin\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\bin\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\obj\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.dll
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\obj\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.pdb
+C:\Users\styczyniaki\Desktop\exe\intermidate\POLYMORPHISM - Exercises\POLYMORPHISM - Exercises\obj\Debug\netcoreapp3.1\POLYMORPHISM - Exercises.genruntimeconfig.cache

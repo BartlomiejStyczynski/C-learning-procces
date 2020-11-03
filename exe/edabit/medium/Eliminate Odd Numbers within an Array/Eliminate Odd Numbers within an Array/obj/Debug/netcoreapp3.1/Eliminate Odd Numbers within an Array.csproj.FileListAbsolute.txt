@@ -1,0 +1,3 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Eliminate Odd Numbers within an Array\Eliminate Odd Numbers within an Array\obj\Debug\netcoreapp3.1\Eliminate Odd Numbers within an Array.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Eliminate Odd Numbers within an Array\Eliminate Odd Numbers within an Array\obj\Debug\netcoreapp3.1\Eliminate Odd Numbers within an Array.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\medium\Eliminate Odd Numbers within an Array\Eliminate Odd Numbers within an Array\obj\Debug\netcoreapp3.1\Eliminate Odd Numbers within an Array.csproj.CoreCompileInputs.cache

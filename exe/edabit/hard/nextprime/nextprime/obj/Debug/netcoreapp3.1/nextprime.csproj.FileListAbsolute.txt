@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\obj\Debug\netcoreapp3.1\nextprime.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\obj\Debug\netcoreapp3.1\nextprime.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\obj\Debug\netcoreapp3.1\nextprime.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\obj\Debug\netcoreapp3.1\nextprime.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\bin\Debug\netcoreapp3.1\nextprime.exe
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\bin\Debug\netcoreapp3.1\nextprime.deps.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\bin\Debug\netcoreapp3.1\nextprime.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\bin\Debug\netcoreapp3.1\nextprime.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\bin\Debug\netcoreapp3.1\nextprime.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\bin\Debug\netcoreapp3.1\nextprime.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\obj\Debug\netcoreapp3.1\nextprime.dll
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\obj\Debug\netcoreapp3.1\nextprime.pdb
+C:\Users\styczyniaki\Desktop\exe\edabit\hard\nextprime\nextprime\obj\Debug\netcoreapp3.1\nextprime.genruntimeconfig.cache

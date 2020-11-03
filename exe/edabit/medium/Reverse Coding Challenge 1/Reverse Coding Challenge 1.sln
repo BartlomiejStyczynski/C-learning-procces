@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Coding Challenge 1", "Reverse Coding Challenge 1\Reverse Coding Challenge 1.csproj", "{28FC5955-B3FA-4EB4-AEC0-951F9682D869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FC5955-B3FA-4EB4-AEC0-951F9682D869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FC5955-B3FA-4EB4-AEC0-951F9682D869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FC5955-B3FA-4EB4-AEC0-951F9682D869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FC5955-B3FA-4EB4-AEC0-951F9682D869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45474FB1-617F-4F0C-9273-713CE8460893}
+	EndGlobalSection
+EndGlobal
