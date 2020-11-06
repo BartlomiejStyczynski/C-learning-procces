@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\bin\Debug\netcoreapp3.1\Simplified Fractions.exe
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\bin\Debug\netcoreapp3.1\Simplified Fractions.deps.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\bin\Debug\netcoreapp3.1\Simplified Fractions.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\bin\Debug\netcoreapp3.1\Simplified Fractions.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\bin\Debug\netcoreapp3.1\Simplified Fractions.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\bin\Debug\netcoreapp3.1\Simplified Fractions.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\obj\Debug\netcoreapp3.1\Simplified Fractions.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\obj\Debug\netcoreapp3.1\Simplified Fractions.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\obj\Debug\netcoreapp3.1\Simplified Fractions.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\obj\Debug\netcoreapp3.1\Simplified Fractions.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\obj\Debug\netcoreapp3.1\Simplified Fractions.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\obj\Debug\netcoreapp3.1\Simplified Fractions.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\medium\Simplified Fractions\Simplified Fractions\obj\Debug\netcoreapp3.1\Simplified Fractions.genruntimeconfig.cache

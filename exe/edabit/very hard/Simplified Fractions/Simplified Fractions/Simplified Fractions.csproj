@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Simplified_Fractions</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\styczyniaki\Desktop\C# learning procces\exe\edabit\very hard\Simplify fraction.cs" Link="Simplify fraction.cs" />
+  </ItemGroup>
+
+</Project>

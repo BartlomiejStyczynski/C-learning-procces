@@ -12,7 +12,7 @@ namespace Calculate_the_Mean2
 
         public static double Mean(int[] arr)
         {
-            return Math.Round(arr.Average() / arr.Length, 2);
+            return Math.Round(Math.Round(arr.Average(), 2) / arr.Length, 2);
         }
     }
 }
