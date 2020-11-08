@@ -59,7 +59,6 @@ C:\Users\styczyniaki\Desktop\C# learning procces\udemy\memberships\Memberships\M
 C:\Users\styczyniaki\Desktop\C# learning procces\udemy\memberships\Memberships\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\styczyniaki\Desktop\C# learning procces\udemy\memberships\Memberships\Memberships\bin\Microsoft.Owin.dll
 C:\Users\styczyniaki\Desktop\C# learning procces\udemy\memberships\Memberships\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\styczyniaki\Desktop\C# learning procces\udemy\memberships\Memberships\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
 C:\Users\styczyniaki\Desktop\C# learning procces\udemy\memberships\Memberships\Memberships\bin\Microsoft.Owin.Security.dll
 C:\Users\styczyniaki\Desktop\C# learning procces\udemy\memberships\Memberships\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
 C:\Users\styczyniaki\Desktop\C# learning procces\udemy\memberships\Memberships\Memberships\bin\Microsoft.Owin.Security.Google.dll
