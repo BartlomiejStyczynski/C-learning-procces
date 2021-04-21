@@ -1,0 +1,13 @@
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\obj\Debug\netcoreapp3.1\logarytm.csprojAssemblyReference.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\obj\Debug\netcoreapp3.1\logarytm.AssemblyInfoInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\obj\Debug\netcoreapp3.1\logarytm.AssemblyInfo.cs
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\obj\Debug\netcoreapp3.1\logarytm.csproj.CoreCompileInputs.cache
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\bin\Debug\netcoreapp3.1\logarytm.exe
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\bin\Debug\netcoreapp3.1\logarytm.deps.json
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\bin\Debug\netcoreapp3.1\logarytm.runtimeconfig.json
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\bin\Debug\netcoreapp3.1\logarytm.runtimeconfig.dev.json
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\bin\Debug\netcoreapp3.1\logarytm.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\bin\Debug\netcoreapp3.1\logarytm.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\obj\Debug\netcoreapp3.1\logarytm.dll
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\obj\Debug\netcoreapp3.1\logarytm.pdb
+C:\Users\styczyniaki\Desktop\C# learning procces\Exercises\logarytm\logarytm\obj\Debug\netcoreapp3.1\logarytm.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+ 1). implement parallel computing no matter the data object is single table/file 2). avoid using string type 
+3). avoid using third-party library (but I use C# Fleck library only) 4). do not use asp.net 5) use w3.css 6) not use any js frameowork/library
